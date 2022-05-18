@@ -1,1 +1,3 @@
 readme
+github for jenkins hook:
+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
